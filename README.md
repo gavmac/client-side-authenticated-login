@@ -1,7 +1,7 @@
 
 # Client-Side Authentication Register and Login Boilerplate
 
-## Bolierplate include Registration, Login, JSON Web Tokens, Dynamic Forms with Validation and error controls.
+## Bolierplate includes Registration, Login, JSON Web Tokens, Dynamic Forms with Validation and error controls.
 
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
